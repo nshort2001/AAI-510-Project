@@ -1,2 +1,5 @@
 # AAI-510-Project
-This repository will contain all code related to the AAI 510 project for Nicholas Short and Ahmed Ibrahim Ahmed
+
+Authors and Contributors: Nicholas Short & Ahmed Ibrahim Ahmed
+
+Future Project Description Will Go Here
