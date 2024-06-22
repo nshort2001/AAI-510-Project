@@ -1,4 +1,4 @@
-# AAI-510-Project
+# Predicting Diabetic Patient Readmission Improving Patient Outcomes and Reducing Hospital Costs 
 
 Authors and Contributors: Nicholas Short & Ahmed Ibrahim Ahmed
 
