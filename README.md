@@ -10,7 +10,7 @@ Looking at what we can do to levergae ways to minimize this utilizing Machine le
 Our results yeilded an overall accuracy of predictions of up to 60%, breaking the many uncertainties taht come with a long form diagnosis process and greatly shortens the discourse needed to make sure that the paitent is getting the care that they need so that they may live a good life. 
 Ensuring that people are living happy lives is the goal of the docotrs, nurses, technicians and lab staff in each hospital. To ensure that, beign able to operate in an effective way with the best equipment will help to make surethat both for the paitents and the doctors that the hsopital is providing care suitable to th paitent and of the expertise of the workers.
 
-All preprocessing results, analysis,model comparisons and model tuning and steps are provided in the IPYNB file in the repository
+All preprocessing results, analysis, model comparisons and model tuning and steps are provided in the IPYNB file in the repository
 
 
 # Analysis Statisitcs:
@@ -19,7 +19,7 @@ All preprocessing results, analysis,model comparisons and model tuning and steps
 
 # Conclusions:
 
-The overall performance metrics of the three models  (accuracy, precision, recall, F1-score) suggest that the models are only moderately successful at predicting readmissions. There is still a significant room for improvement readmissions.
+The overall performance metrics of the three models (accuracy, precision, recall, F1-score) suggest that the models are only moderately successful at predicting readmissions. There is still a significant room for improvement readmissions.
 
 The Gradient Boosting Classifier emerged as the best performing individual model with an accuracy of 0.60 and a ROC-AUC of 0.69, indicating its capability to handle the complexity and imbalance in the dataset better than other models.
 
