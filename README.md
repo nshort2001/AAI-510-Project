@@ -17,6 +17,14 @@ All preprocessing results, analysis, model comparisons and model tuning and step
 
 ![image](https://github.com/nshort2001/AAI-510-Project/assets/142278565/2d6a4de5-a9d4-471e-a896-79c2ffd4c00f)
 
+# Post Model Tuning Statistics:
+
+Accuracy: Decreased from 0.60 to 0.58
+Precision: Decreased from 0.58 to 0.56
+Recall: Decreased from 0.60 to 0.58
+F1-score: Decreased from 0.56 to 0.53
+ROC-AUC: Decreased from 0.69 to 0.64
+
 # Conclusions:
 
 The overall performance metrics of the three models (accuracy, precision, recall, F1-score) suggest that the models are only moderately successful at predicting readmissions. There is still a significant room for improvement readmissions.
