@@ -13,7 +13,7 @@ Ensuring that people are living happy lives is the goal of the docotrs, nurses, 
 All preprocessing results, analysis,model comparisons and model tuning and steps are provided in the IPYNB file in the repository
 
 
-# Analyis Statisitcs:
+# Analysis Statisitcs:
 
 ![image](https://github.com/nshort2001/AAI-510-Project/assets/142278565/2d6a4de5-a9d4-471e-a896-79c2ffd4c00f)
 
