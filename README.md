@@ -20,9 +20,13 @@ All preprocessing results, analysis, model comparisons and model tuning and step
 # Post Model Tuning Statistics:
 
 Accuracy: Decreased from 0.60 to 0.58
+
 Precision: Decreased from 0.58 to 0.56
+
 Recall: Decreased from 0.60 to 0.58
+
 F1-score: Decreased from 0.56 to 0.53
+
 ROC-AUC: Decreased from 0.69 to 0.64
 
 # Conclusions:
